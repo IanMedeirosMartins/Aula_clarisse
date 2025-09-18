@@ -20,6 +20,11 @@ hr {
     color: black;
     border: 1px solid black;
 }
+.img2 {
+    width: 100%;
+    margin-top: 50px;
+    border-radius: 8px;
+}   
 .optimusTech {
     font-size: 18px;
 }
@@ -127,6 +132,7 @@ footer {
     color: #98A2B3;
     margin-top: 32px;
 }
+
 
 
 
